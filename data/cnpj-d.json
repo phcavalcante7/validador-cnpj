@@ -1,0 +1,178 @@
+{
+    "status": 1,
+    "cnpj": "00.394.460/0058-87",
+    "tipo": "Matriz",
+    "razao": "TOKEN TEST LTDA",
+    "fantasia": "TOKEN TEST",
+    "capitalSocial": "95000.00",
+    "inicioAtividade": "31/12/1999",
+    "email": "contato@empresa.com",
+    "responsavel": "Joao Jose",
+    "responsavelQualificacao": {
+        "id": 49,
+        "descricao": "Sócio-Administrador "
+    },
+    "simplesNacional": {
+        "optante": "Não",
+        "inicio": "17/01/2020",
+        "fim": "01/01/2023"
+    },
+    "matrizEndereco": {
+        "cep": "0000-111",
+        "tipo": "Rua",
+        "logradouro": "Rua A",
+        "numero": "1",
+        "complemento": "Sala 1",
+        "bairro": "Centro",
+        "cidade": "Montes Claros",
+        "uf": "MG"
+    },
+    "ibge": {
+        "pais": {
+            "id": "1058",
+            "iso2": "BR",
+            "iso3": "BRA",
+            "nome": "Brasil",
+            "comex_id": "105"
+        },
+        "estado": {
+            "id": 11,
+            "nome": "Minas Gerais",
+            "sigla": "MG",
+            "ibge_id": 31
+        },
+        "cidade": {
+            "id": 2745,
+            "nome": "Montes Claros",
+            "ibge_id": 3143302,
+            "siafi_id": "4865"
+        }
+    },
+    "matrizfilial": {
+        "id": 1,
+        "tipo": "Matriz"
+    },
+    "telefones": {
+        "1": {
+            "ddd": "11",
+            "numero": "22334454"
+        }
+    },
+    "fax": {
+        "1": {
+            "ddd": "11",
+            "numero": "22334455"
+        }
+    },
+    "situacao": {
+        "id": 2,
+        "nome": "Ativa",
+        "data": "20/10/2008",
+        "motivoId": "0",
+        "motivo": "Sem Motivo"
+    },
+    "naturezaJuridica": {
+        "codigo": "2062",
+        "descricao": "Sociedade Empresaria Limitada"
+    },
+    "cnae": {
+        "fiscal": "6202300",
+        "secao": "J",
+        "divisao": "62",
+        "grupo": "62.0",
+        "classe": "62.02-3",
+        "subClasse": "6202-3/00",
+        "descricao": "Desenvolvimento e licenciamento de programas de computador customizáveis",
+        "secundarias": [
+            {
+                "id": "6201501",
+                "secao": "J",
+                "divisao": "62",
+                "grupo": "62.0",
+                "classe": "62.01-5",
+                "subclasse": "6201-5/01",
+                "descricao": "Desenvolvimento de programas de computador sob encomenda"
+            },
+            {
+                "id": "6204000",
+                "secao": "J",
+                "divisao": "62",
+                "grupo": "62.0",
+                "classe": "62.04-0",
+                "subclasse": "6204-0/00",
+                "descricao": "Consultoria em tecnologia da informação"
+            },
+            {
+                "id": "6311900",
+                "secao": "J",
+                "divisao": "63",
+                "grupo": "63.1",
+                "classe": "63.11-9",
+                "subclasse": "6311-9/00",
+                "descricao": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na Internet"
+            },
+            {
+                "id": "9511800",
+                "secao": "S",
+                "divisao": "95",
+                "grupo": "95.1",
+                "classe": "95.11-8",
+                "subclasse": "9511-8/00",
+                "descricao": "Reparação e manutenção de computadores e de equipamentos periféricos"
+            }
+        ]
+    },
+    "porte": {
+        "id": 3,
+        "descricao": "Demais"
+    },
+    "regimesTributarios": [
+        {
+            "ano": 2021,
+            "regime_tributario": "LUCRO PRESUMIDO",
+            "forma_de_tributacao": "LUCRO PRESUMIDO",
+            "atualizado_em": "2023-01-26T03:00:00.000Z"
+        },
+        {
+            "ano": 2020,
+            "regime_tributario": "LUCRO PRESUMIDO",
+            "forma_de_tributacao": "LUCRO PRESUMIDO",
+            "atualizado_em": "2023-01-26T03:00:00.000Z"
+        },
+        {
+            "ano": 2019,
+            "regime_tributario": "LUCRO PRESUMIDO",
+            "forma_de_tributacao": "LUCRO PRESUMIDO",
+            "atualizado_em": "2023-01-26T03:00:00.000Z"
+        }
+    ],
+    "socios": [
+        {
+            "cpf_cnpj_socio": "***123456**",
+            "nome": "JOAO TESTE",
+            "tipo": "Pessoa Física",
+            "data_entrada": "2020-01-01",
+            "cpf_representante_legal": "***000000**",
+            "nome_representante": null,
+            "faixa_etaria": "31 a 40 anos",
+            "atualizado_em": "2023-09-09T03:00:00.000Z",
+            "pais_id": "1058",
+            "qualificacao_socio": {
+                "id": 49,
+                "descricao": "Sócio-Administrador "
+            },
+            "qualificacao_representante": null,
+            "pais": {
+                "id": "1058",
+                "iso2": "BR",
+                "iso3": "BRA",
+                "nome": "Brasil",
+                "comex_id": "105"
+            }
+        }
+    ],
+    "pacoteUsado": 6,
+    "saldo": 123,
+    "consultaID": "11bb22cc33dd44ee",
+    "delay": 0.3
+}

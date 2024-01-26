@@ -1,0 +1,14 @@
+{
+    "status": 1,
+    "cnpj": "00.394.460/0058-87",
+    "razao": "TOKEN TEST LTDA",
+    "risco": {
+        "nivel": 2,
+        "descricao": "Médio",
+        "score": "251-600"
+    },
+    "pacoteUsado": 12,
+    "saldo": 123,
+    "consultaID": "11bb22cc33dd44ee",
+    "delay": 0.3
+}
